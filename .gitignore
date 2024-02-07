@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+
+# Environment variables
+
+
+# Instance folder
+instance/
+
+# SQLite database file (if used)
+*.sqlite
+
+# Pytest
+.cache
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS specific
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# If you're using a database schema migration tool like Flask-Migrate (Alembic)
+migrations/versions/*
+
+# Flask stuff:
+.flaskenv
+
+# Other files and folders to ignore
+node_modules/
+coverage/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Images
+# *.png
+# *.jpg
+# *.jpeg
+
+*.pem
